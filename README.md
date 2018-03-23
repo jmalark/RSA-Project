@@ -14,8 +14,7 @@ keygen.cc
 encrypt.cc
 decrypt.cc
 Makefile
-readme.txt
-Homework Cover Sheet.pdf
+README.md
 
 This project contains several runnable files and the other files they depend on. The command ‘make all’ with compile the project or the files can be compiled individually according to the instructions below. 
 
